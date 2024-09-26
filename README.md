@@ -1,3 +1,7 @@
+欢迎加入 Web3 动物乐园社区 DC      
+https://discord.gg/Kc9Qkqdbcd
+
+
 半自动 grafun脚本
 因为普通evm密钥导入hotwallet不会提供evm地址 看不到gra分数   所以必须要用算法来创建
 1. 使用命令 go run gra.go 来生成hot wallet 密钥对 并计算mpc地址(hotwallet的evm地址)
