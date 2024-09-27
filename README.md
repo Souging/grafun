@@ -7,6 +7,9 @@ https://t.me/+8FhBxuUI_4UwNGRl
 因为普通evm密钥导入hotwallet不会提供evm地址 看不到gra分数   所以必须要用算法来创建
 1. 使用命令 go run gra.go 来生成hot wallet 密钥对 并计算mpc地址(hotwallet的evm地址)
 
+首先你的tg小号必须更改名字成:🐤Souging.Gra-Gra
+然后必须订阅  https://t.me/grafunmeme   才能做满900
+
 2. 运行命令后会输出 /start  1rq8ZO-YgrvF-PmMMBsvyqZUbEpnCBgksp_btRQjLgw=
 3. 直接把这个命令发送到 https://t.me/GraFunBot  这个号就完成了
 
